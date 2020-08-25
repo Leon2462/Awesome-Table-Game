@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "awesome table game",
+    "mongoUri": "mongodb+srv://leon2462:sonia13@cluster0.b5age.mongodb.net/game?retryWrites=true&w=majority"
+}

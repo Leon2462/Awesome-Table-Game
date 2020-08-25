@@ -1,0 +1,26 @@
+.AuthPage {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
+
+.AuthPage h2 {
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+}
+
+.AuthPage form {
+    display: flex;
+    flex-direction: column;
+}
+.AuthPage Input {
+    margin: 10px 10px 10px 10px;
+    width: 90%
+}
+
+.AuthPage Button {
+    margin: 10px 10px 10px 10px;
+    width: 100px
+}
